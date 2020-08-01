@@ -23,6 +23,3 @@ void traverse() {
     printf("%s", str);
 }
 
-int main() {
-    traverse();
-}

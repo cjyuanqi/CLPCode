@@ -22,6 +22,7 @@
 		8F1D8E1223C070AA007DAA99 /* part12.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F1D8E1123C070AA007DAA99 /* part12.cpp */; };
 		8F2A27AA24D0466100A99F7C /* practiceYao.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F2A27A924D0466100A99F7C /* practiceYao.c */; };
 		8F59E32D24D57F63002A33DA /* TraverseCharArr.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F59E32C24D57F63002A33DA /* TraverseCharArr.c */; };
+		8F59E32F24D5A000002A33DA /* encrypt_alg.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F59E32E24D5A000002A33DA /* encrypt_alg.c */; };
 		8F70DD27244883450016D467 /* part10.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F70DD26244883450016D467 /* part10.cpp */; };
 		8F7108032407754800C8242F /* part0.c in Sources */ = {isa = PBXBuildFile; fileRef = 8F7108022407754800C8242F /* part0.c */; };
 		8F93449D23F9287200E6F6B1 /* chapter4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8F93449C23F9287200E6F6B1 /* chapter4.cpp */; };
@@ -56,6 +57,7 @@
 		8F1D8E1123C070AA007DAA99 /* part12.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = part12.cpp; sourceTree = "<group>"; };
 		8F2A27A924D0466100A99F7C /* practiceYao.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = practiceYao.c; sourceTree = "<group>"; };
 		8F59E32C24D57F63002A33DA /* TraverseCharArr.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TraverseCharArr.c; sourceTree = "<group>"; };
+		8F59E32E24D5A000002A33DA /* encrypt_alg.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = encrypt_alg.c; sourceTree = "<group>"; };
 		8F70DD26244883450016D467 /* part10.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = part10.cpp; sourceTree = "<group>"; };
 		8F7108022407754800C8242F /* part0.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = part0.c; sourceTree = "<group>"; };
 		8F93449C23F9287200E6F6B1 /* chapter4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = chapter4.cpp; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				8F0730152445EC3000216000 /* part0.c */,
 				8F2A27A924D0466100A99F7C /* practiceYao.c */,
 				8F59E32C24D57F63002A33DA /* TraverseCharArr.c */,
+				8F59E32E24D5A000002A33DA /* encrypt_alg.c */,
 			);
 			path = c_file;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				8F70DD27244883450016D467 /* part10.cpp in Sources */,
 				8F0730162445EC3000216000 /* part0.c in Sources */,
 				8F2A27AA24D0466100A99F7C /* practiceYao.c in Sources */,
+				8F59E32F24D5A000002A33DA /* encrypt_alg.c in Sources */,
 				8F1D8E0423BC7347007DAA99 /* part8.cpp in Sources */,
 				8F1D8DFE23BB2BFF007DAA99 /* part5.cpp in Sources */,
 				8F1D8DFC23BB28C6007DAA99 /* part4.cpp in Sources */,
