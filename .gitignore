@@ -1,5 +1,4 @@
 # Xcode
-*.xcodeproj
 *.DS_Store
 # C.gitignore
 # Prerequisites
