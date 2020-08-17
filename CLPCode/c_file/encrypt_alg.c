@@ -42,7 +42,7 @@ void encrpt_algrithm(char *str) {
     }
 }
 
-int main(){
+int main_encrpt(){
     char *str = "abc123ABC";
     encrpt_algrithm(str);
     printf("%s\n",str);

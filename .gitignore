@@ -1,5 +1,7 @@
 # Xcode
 *.xcodeproj
+*.pbxproj
+*.xcuserstate
 
 *.DS_Store
 # C.gitignore
